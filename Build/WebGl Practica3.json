@@ -1,0 +1,13 @@
+{
+"companyName": "CareRadish",
+"productName": "Island Delivery",
+"dataUrl": "WebGl Practica3.data.unityweb",
+"asmCodeUrl": "WebGl Practica3.asm.code.unityweb",
+"asmMemoryUrl": "WebGl Practica3.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGl Practica3.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
